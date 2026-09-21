@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pixifanq.github.io/meiridasaiqu/sitemap.xml
